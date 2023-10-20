@@ -1,0 +1,2 @@
+# nginxc
+Nginx config
